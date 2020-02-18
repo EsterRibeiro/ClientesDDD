@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0 - Apresentacao", "0 - Apresentacao", "{C421EE0D-1FBC-465E-A89A-87A75E01E25C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Aplicacao", "1 - Aplicacao", "{2094E424-18C5-44BF-83C7-F2B990EEC018}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Servicos", "2 - Servicos", "{B5C8F82B-5108-46C9-84DD-40E9F7CC9768}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Dominio", "3 - Dominio", "{83A3F8D6-9F19-486B-814F-C490EF35F41F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 - Infraestrutura", "4 - Infraestrutura", "{DA4A7B7C-85B8-4E68-B0D7-55543F6CB634}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FornecedoresDDD.Dominio", "FornecedoresDDD.Dominio\FornecedoresDDD.Dominio.csproj", "{4465A3A8-447B-4E6D-8FA8-70B81C7B713A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4465A3A8-447B-4E6D-8FA8-70B81C7B713A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4465A3A8-447B-4E6D-8FA8-70B81C7B713A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4465A3A8-447B-4E6D-8FA8-70B81C7B713A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4465A3A8-447B-4E6D-8FA8-70B81C7B713A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4465A3A8-447B-4E6D-8FA8-70B81C7B713A} = {83A3F8D6-9F19-486B-814F-C490EF35F41F}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1A4D68A-C9BD-4F1A-9BC5-B9928E93EA98}
+	EndGlobalSection
+EndGlobal

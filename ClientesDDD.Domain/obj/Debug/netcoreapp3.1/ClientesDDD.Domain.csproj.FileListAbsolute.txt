@@ -1,0 +1,8 @@
+C:\Users\ester\source\repos\ClientesDDD\ClientesDDD.Domain\bin\Debug\netcoreapp3.1\ClientesDDD.Domain.deps.json
+C:\Users\ester\source\repos\ClientesDDD\ClientesDDD.Domain\bin\Debug\netcoreapp3.1\ClientesDDD.Domain.dll
+C:\Users\ester\source\repos\ClientesDDD\ClientesDDD.Domain\bin\Debug\netcoreapp3.1\ClientesDDD.Domain.pdb
+C:\Users\ester\source\repos\ClientesDDD\ClientesDDD.Domain\obj\Debug\netcoreapp3.1\ClientesDDD.Domain.csprojAssemblyReference.cache
+C:\Users\ester\source\repos\ClientesDDD\ClientesDDD.Domain\obj\Debug\netcoreapp3.1\ClientesDDD.Domain.AssemblyInfoInputs.cache
+C:\Users\ester\source\repos\ClientesDDD\ClientesDDD.Domain\obj\Debug\netcoreapp3.1\ClientesDDD.Domain.AssemblyInfo.cs
+C:\Users\ester\source\repos\ClientesDDD\ClientesDDD.Domain\obj\Debug\netcoreapp3.1\ClientesDDD.Domain.dll
+C:\Users\ester\source\repos\ClientesDDD\ClientesDDD.Domain\obj\Debug\netcoreapp3.1\ClientesDDD.Domain.pdb

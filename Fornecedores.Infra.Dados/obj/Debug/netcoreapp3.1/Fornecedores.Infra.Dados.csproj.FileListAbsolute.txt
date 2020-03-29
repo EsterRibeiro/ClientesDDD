@@ -1,7 +1,0 @@
-C:\Users\ester\source\repos\FornecedoresDDD\Fornecedores.Infra.Dados\bin\Debug\netcoreapp3.1\Fornecedores.Infra.Dados.deps.json
-C:\Users\ester\source\repos\FornecedoresDDD\Fornecedores.Infra.Dados\bin\Debug\netcoreapp3.1\Fornecedores.Infra.Dados.dll
-C:\Users\ester\source\repos\FornecedoresDDD\Fornecedores.Infra.Dados\obj\Debug\netcoreapp3.1\Fornecedores.Infra.Dados.AssemblyInfoInputs.cache
-C:\Users\ester\source\repos\FornecedoresDDD\Fornecedores.Infra.Dados\obj\Debug\netcoreapp3.1\Fornecedores.Infra.Dados.AssemblyInfo.cs
-C:\Users\ester\source\repos\FornecedoresDDD\Fornecedores.Infra.Dados\obj\Debug\netcoreapp3.1\Fornecedores.Infra.Dados.csprojAssemblyReference.cache
-C:\Users\ester\source\repos\FornecedoresDDD\Fornecedores.Infra.Dados\bin\Debug\netcoreapp3.1\Fornecedores.Infra.Dados.runtimeconfig.json
-C:\Users\ester\source\repos\FornecedoresDDD\Fornecedores.Infra.Dados\bin\Debug\netcoreapp3.1\Fornecedores.Infra.Dados.runtimeconfig.dev.json
